@@ -1,0 +1,110 @@
+header {
+    font-family: 'brush script mt';
+    color: black;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+body {
+    color: rgb(40, 136, 40);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-size: 40px;
+    background-color: rgb(236, 212, 181);
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+
+h3 {
+    font-size: 12px;
+    font-weight: 100;
+    font-family:'Times New Roman', Times, serif ';
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'brush script mt';
+    color: black;
+    font-weight: lighter
+    padding: 10px;
+
+    margin: 100px;
+
+}
+
+#topid {
+    color: black;
+}
+
+.whitebackgroundbox {
+
+    font-size: 18px;
+}
+
+.backgroundimageclimb {
+    background-image: url("../images/repel.jpg");
+    background-repeat: repeat;
+    background-size: 20px;
+    opacity: 50%;
+}
+
+.container {
+    background-color:  rgb(236, 212, 181);
+    position: relative;
+    margin: 0;
+}
+
+.header {
+   
+    padding:20px;
+    box-sizing:border-box;
+    margin-bottom:20px;
+
+}
+
+.leftmenu {
+   
+    float: left;
+    width: 18%;
+}
+
+.mainbody {
+
+
+    float: left;
+    width: 60%;
+}
+.rightmenu {
+  
+
+    float: right;
+    width: 18%;
+}
+
+.footer {
+    margin-top: 95%;
+    margin-bottom: 0px;
+    
+}
+
+.navbar{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
